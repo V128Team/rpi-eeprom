@@ -1,0 +1,11 @@
+Source: rpi-eeprom
+Build-Depends: debhelper (>= 11)
+Section: contrib/otherosfs
+Priority: optional
+Maintainer: June Tate-Gans <june@theonelab.com>
+Standards-Version: 4.3.0
+
+Package: rpi-eeprom
+Architecture: all
+Depends: dpkg (>= 1.15.4), python3
+Description: Raspberry Pi 4 EEPROM management tooling
