@@ -6,6 +6,6 @@ Maintainer: June Tate-Gans <june@theonelab.com>
 Standards-Version: 4.3.0
 
 Package: rpi-eeprom
-Architecture: all
+Architecture: any
 Depends: dpkg (>= 1.15.4), python3
 Description: Raspberry Pi 4 EEPROM management tooling
